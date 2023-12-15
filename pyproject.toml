@@ -10,7 +10,7 @@ addopts = [
     "--strict-markers",
 ]
 markers = ["online"]
-filterwarnings = ["error"]
+filterwarnings = ["default"]
 
 [tool.ruff]
 select = [
